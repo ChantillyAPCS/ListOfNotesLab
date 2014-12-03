@@ -28,3 +28,5 @@ Directions (mostly by Trochim, from the assignment sheet):
 7.	Write an exchangeNotes method that takes a note number like endNote does, but exchanges the specified note with its successor. In the example below (Check the assignment document written by Trochim, included in this repository), the note at position 1 is being swapped with the note "below" it: 
 
 8. You need to write a ListOfNotesTester that tests each method in the ListOfNotes class.
+
+Contributed by Benjamin Ward
