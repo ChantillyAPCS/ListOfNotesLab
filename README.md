@@ -1,5 +1,8 @@
 ListOfNotesLab
 ==============
+IMPORTANT: MAKE SURE TO DO YOUR OWN WORK. THIS IS ONLY FOR REFERENCE AND HELP IF YOU GET STUCK, BECAUSE TROCHIM DOES NOT TEACH AT ALL. DO NOT TURN THIS IN!
+==============
+Turning this in will result in disciplinary actions if caught. This is not meant to be turned in, and is only for reference. Turning this lab in is considered cheating.
 
 Lab due 12/7/2014
 
