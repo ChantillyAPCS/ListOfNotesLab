@@ -9,6 +9,7 @@ Objectives:
 To get practice with collections and loops. 
 
 Directions (mostly by Trochim, from the assignment sheet):
+
 1.	Copy the ListOfNotes class into Eclipse (NOT JGRASP) (this class is found in this repository) 
 
 2.	Take a moment to familiarize yourself with the Java code in the ListOfNotes class. The collection of notes is represented by an ArrayList of Strings (created in the constructor), and there are methods that add Strings to the list, remove Strings, and a loop that displays all of the Strings in the collection. Create an instance of ListOfNotes and experiment with its methods to get a feel for how it works. (Don't actually bother to do this, it's pretty useless)
