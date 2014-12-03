@@ -1,5 +1,5 @@
 // Benjamin Ward
-// Chantilly APCS
+// Chantilly APCS P2
 
 // IMPORTANT: MAKE SURE TO DO YOUR OWN WORK. THIS IS ONLY FOR REFERENCE AND HELP IF 
 // YOU GET STUCK, BECAUSE TROCHIM DOES NOT TEACH AT ALL. DO NOT TURN THIS IN!
@@ -117,7 +117,11 @@ public class ListOfNotes
     	int i = 0;
     	for(String note : notes) 
     	{
-    		if(note.startsWith("Important: ")) 
+    		if(note == null) 
+    		{
+    			// Do nothing
+    		}
+    		else if(note.startsWith("Important: ")) 
     		{
     			System.out.println(Integer.toString(i) + ") " + note);
     			i++;
